@@ -8,7 +8,4 @@
     { "id": 1, "title": "Movie 1","synopsis":"","cast":"","release date":"", "movieId": 1 },
     { "id": 2, "title": "Movie 2","synopsis":"","cast":"","release date":"", "movieId": 2 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
